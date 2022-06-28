@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan Chetri
-- 👀 I’m interested in Analyutics and data science
+- 👀 I’m interested in Analytics and data science
 - 🌱 I’m currently pursuing MSc Data Analytics at Christ Bangalore
 - 💞️ I’m looking to collaborate on any kind of projects under data science domain
 - 📫 Reach me at mchetri0605@gmail.com
