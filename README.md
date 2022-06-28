@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mohan0-Chetri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohan Chetri
+- 👀 I’m interested in Analyutics and data science
+- 🌱 I’m currently pursuing MSc Data Analytics at Christ Bangalore
+- 💞️ I’m looking to collaborate on any kind of projects under data science domain
+- 📫 Reach me at mchetri0605@gmail.com
 
 <!---
 Mohan0-Chetri/Mohan0-Chetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
